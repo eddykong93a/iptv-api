@@ -1,46 +1,30 @@
 🕘️更新时间,#genre#
-2025-10-06 06:14:08,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+2025-10-06 18:18:10,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
-CCTV-7,http://zzssw01.55555.io:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-8,http://zzssw01.55555.io:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-9,http://zzssw01.55555.io:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-10,http://zzssw01.55555.io:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-11,http://zzssw01.55555.io:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-12,http://zzssw01.55555.io:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-13,http://zzssw01.55555.io:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-14,http://zzssw01.55555.io:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-15,http://1.180.2.93:9901/tsfile/live/0015_1.m3u8?key=txiptv$订阅源
-CCTV-15,http://zzssw01.55555.io:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001$订阅源
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140$订阅源
 CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144$订阅源
-CCTV-17,http://1.180.2.93:9901/tsfile/live/0019_1.m3u8?key=txiptv$订阅源
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140$订阅源
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
-浙江卫视,http://zzssw01.55555.io:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
-湖南卫视,http://60.16.0.216:5757/hls/21/index.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 北京卫视,http://60.16.0.216:5757/hls/25/index.m3u8$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
 湖北卫视,http://60.16.0.216:5757/hls/33/index.m3u8$订阅源
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
 黑龙江卫视,http://60.16.0.216:5757/hls/35/index.m3u8$订阅源
-黑龙江卫视,http://183.222.242.31:8088/hls/26/index.m3u8$订阅源
 安徽卫视,http://60.16.0.216:5757/hls/31/index.m3u8$订阅源
 安徽卫视,http://183.222.242.31:8088/hls/32/index.m3u8$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
-重庆卫视,http://zzssw01.55555.io:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 重庆卫视,http://60.16.0.216:5757/hls/36/index.m3u8$订阅源
 重庆卫视,http://183.222.242.31:8088/hls/27/index.m3u8$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,http://60.16.0.216:5757/hls/23/index.m3u8$订阅源
 东方卫视,http://183.222.242.31:8088/hls/21/index.m3u8$订阅源
-东方卫视,http://ygbh.site/php/bfgd.php?id=093$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 东南卫视,http://183.222.242.31:8088/hls/30/index.m3u8$订阅源
 东南卫视,http://ygbh.site/php/bfgd.php?id=483$订阅源
@@ -49,7 +33,6 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
 广西卫视,http://60.16.0.216:5757/hls/45/index.m3u8$订阅源
 广西卫视,http://ygbh.site/php/bfgd.php?id=116$订阅源
-贵州卫视,http://zzssw01.55555.io:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 贵州卫视,http://60.16.0.216:5757/hls/37/index.m3u8$订阅源
 贵州卫视,http://183.222.242.31:8088/hls/31/index.m3u8$订阅源
 贵州卫视,http://ygbh.site/php/bfgd.php?id=101$订阅源
@@ -61,8 +44,8 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140$订阅源
 河北卫视,http://ygbh.site/php/bfgd.php?id=108$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
-河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140$订阅源
 河南卫视,http://60.16.0.216:5757/hls/42/index.m3u8$订阅源
+河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140$订阅源
 河南卫视,http://183.222.242.31:8088/hls/35/index.m3u8$订阅源
 河南卫视,http://ygbh.site/php/bfgd.php?id=104$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
@@ -92,6 +75,7 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140$订阅源
 山东卫视,http://183.222.242.31:8088/hls/25/index.m3u8$订阅源
 山东卫视,http://ygbh.site/php/bfgd.php?id=099$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
+山西卫视,http://sh.lnott.top:880/dx39.m3u8$订阅源
 山西卫视,http://60.16.0.216:5757/hls/39/index.m3u8$订阅源
 山西卫视,http://zqh2333.top:2222/rtp/239.93.24.6:5140$订阅源
 山西卫视,http://ygbh.site/php/bfgd.php?id=109$订阅源
@@ -102,7 +86,6 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140$订阅源
 四川卫视,http://60.16.0.216:5757/hls/30/index.m3u8$订阅源
 四川卫视,http://183.222.242.31:8088/hls/17/index.m3u8$订阅源
 四川卫视,http://ygbh.site/php/bfgd.php?id=103$订阅源
-深圳卫视,http://zzssw01.55555.io:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 深圳卫视,http://60.16.0.216:5757/hls/19/index.m3u8$订阅源
 深圳卫视,http://ygbh.site/php/bfgd.php?id=100$订阅源
 天津卫视,http://60.16.0.216:5757/hls/34/index.m3u8$订阅源
