@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-16 18:17:05,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+2025-10-17 06:11:50,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+CCTV-13,http://106.53.99.30/tv/cctv13.php$订阅源
 CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001$订阅源
 CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144$订阅源
 
@@ -30,12 +31,10 @@ CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
 山西卫视,http://zqh2333.top:2222/rtp/239.93.24.6:5140$订阅源
-山西卫视,http://ygbh.site/php/bfgd.php?id=109$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 陕西卫视,http://ygbh.site/php/bfgd.php?id=114$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 四川卫视,http://ygbh.site/php/bfgd.php?id=103$订阅源
-深圳卫视,http://60.16.0.216:5757/hls/19/index.m3u8$订阅源
 深圳卫视,http://ygbh.site/php/bfgd.php?id=100$订阅源
 天津卫视,http://60.16.0.216:5757/hls/34/index.m3u8$订阅源
 天津卫视,http://ygbh.site/php/bfgd.php?id=084$订阅源
