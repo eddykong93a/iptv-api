@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-18 18:15:27,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+2025-10-19 06:14:07,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
-CCTV-13,http://106.53.99.30/tv/cctv13.php$订阅源
-CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001$订阅源
-CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144$订阅源
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
@@ -38,5 +35,5 @@ CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144$订阅源
 西藏卫视,http://ygbh.site/php/bfgd.php?id=121$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,http://ygbh.site/php/bfgd.php?id=150$订阅源
-云南卫视,http://ygbh.site/php/bfgd.php?id=115$订阅源
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
+云南卫视,http://ygbh.site/php/bfgd.php?id=115$订阅源
