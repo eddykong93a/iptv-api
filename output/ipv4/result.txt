@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-23 18:15:43,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+2025-10-24 06:14:30,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
-CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8$订阅源
 CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8$订阅源
 CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8$订阅源
 
@@ -30,12 +29,10 @@ CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8$订阅源
 河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
-江苏卫视,http://pa.kuangdeng.top:8081/hls/19/index.m3u8$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
 江西卫视,http://pa.kuangdeng.top:8081/hls/30/index.m3u8$订阅源
 江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8$订阅源
 辽宁卫视,http://pa.kuangdeng.top:8081/hls/27/index.m3u8$订阅源
-辽宁卫视,http://124.88.238.50:82/hls/21/index.m3u8$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
 宁夏卫视,http://pa.kuangdeng.top:8081/hls/42/index.m3u8$订阅源
 宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8$订阅源
@@ -57,6 +54,6 @@ CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8$订阅源
 西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
 云南卫视,http://pa.kuangdeng.top:8081/hls/46/index.m3u8$订阅源
 云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
