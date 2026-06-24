@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-06-24 07:03:27,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+2026-06-24 20:16:19,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📡卫视频道,#genre#
+海南卫视,http://x1x.bid:5146/rtp/239.3.1.45:8304$订阅源
